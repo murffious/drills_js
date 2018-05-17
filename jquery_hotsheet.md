@@ -1,4 +1,9 @@
-JQuery 		
+JQuery 	
+Manipulating the DOM 
+Select an Element or Group of Elements 
+Using a method usually allow you to specify a callback function as the last parameter. That function will then be called once the animation has finished.or put text or html or what not
+
+
 filter() 
 to define positive conditions each element has to fulfill	
 after() to add an element as the next sibling	How to replace an element in jQuery? Just use the 
