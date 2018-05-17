@@ -2,12 +2,13 @@ JQuery
 Manipulating the DOM 
 Select an Element or Group of Elements - Store, create a reference to i.e. declare a var 
 Using a method usually allow you to specify a callback function as the last parameter. That function will then be called once the animation has finished.or put text or html or what not
-
 Instead of using anonymous inner functions as event handlers, you should modularize your code into reusable chunks
+$(this)
+what is the event object? ex: event.preventDefault()
+event delegation
 
-
-Effects – Animations
-Element Selectors
+### Effects – Animations
+Element Selectors (Select an Element or Group of Elements & almost always store it, create a reference to i.e. declare a var )
 Manipulating the DOM I – Inserting, Replacing and Removing Elements
 Manipulating the DOM II – Changing Element Data and CSS
 Events ‒ Handling Mouse Events & Keyboard Events
